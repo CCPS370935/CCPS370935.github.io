@@ -3,6 +3,30 @@ p{
   Color:Blue;
 }
 header{
-  Font-Family:Times New Roman;
+  Font-Family:Helvetica;
+  color:cornflowerblue;
 }
+ul{
+     Font-Family:Times New Roman;
+     color:DarkBlue;
+
+  }
+ol{
+   Font-Family:Times New Roman;
+    color:LightBlue;
+}
+h1{
+   Font-Family:Monospace;
+    color:maroon;
+}
+body{
+   Font-Family:Tahoma;
+    color:green;
+}
+footer{
+   Font-Family:Cursive;
+    color:blueviolet;
+}
+  
+    
 
